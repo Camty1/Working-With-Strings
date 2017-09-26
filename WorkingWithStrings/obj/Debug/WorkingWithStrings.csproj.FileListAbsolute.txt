@@ -1,0 +1,6 @@
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csprojResolveAssemblyReference.cache
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\cwolf_000\Documents\GitHub\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
